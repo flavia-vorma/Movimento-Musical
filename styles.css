@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #ec89d6;
 }
 
 body {
@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #285dfb;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/4965007.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -42,8 +42,8 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18rem;
-    width: 25rem;
+    top: 21rem;
+    width: 30rem;
     height: auto;
 }
 
@@ -73,7 +73,7 @@ section {
 }
 
 
-#tropicalia {
+#mpb {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -84,7 +84,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#mpb .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -112,7 +112,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/4965007.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -131,7 +131,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #00b3ff;
     border: none;
     font-weight: bold;
 }
